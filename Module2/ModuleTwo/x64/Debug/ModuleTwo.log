@@ -1,3 +1,0 @@
-﻿  ModuleTwo.cpp
-C:\Dev\SNHU\CS210\ModuleTwo\ModuleTwo.cpp(14,7): warning C4101: 'statement': unreferenced local variable
-  ModuleTwo.vcxproj -> C:\Dev\SNHU\CS210\ModuleTwo\x64\Debug\ModuleTwo.exe

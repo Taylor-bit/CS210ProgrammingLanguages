@@ -1,3 +1,0 @@
-﻿  ProjectOne.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
-  ProjectOne.vcxproj -> C:\Dev\SNHU\CS210\ModuleThree\ProjectOne\x64\Debug\ProjectOne.exe
