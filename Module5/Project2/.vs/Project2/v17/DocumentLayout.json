@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\SNHU\\CS210\\Module5\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{199A1B16-1396-4666-96B8-DECDB510F19E}|Project2.vcxproj|C:\\Dev\\SNHU\\CS210\\Module5\\Project2\\Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{199A1B16-1396-4666-96B8-DECDB510F19E}|Project2.vcxproj|solutionrelative:Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project2.cpp",
+              "DocumentMoniker": "C:\\Dev\\SNHU\\CS210\\Module5\\Project2\\Project2.cpp",
+              "RelativeDocumentMoniker": "Project2.cpp",
+              "ToolTip": "C:\\Dev\\SNHU\\CS210\\Module5\\Project2\\Project2.cpp",
+              "RelativeToolTip": "Project2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-01T03:08:16.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

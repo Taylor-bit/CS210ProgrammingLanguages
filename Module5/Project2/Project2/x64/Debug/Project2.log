@@ -1,0 +1,4 @@
+﻿  Project2.cpp
+C:\Dev\SNHU\CS210\Module5\Project2\Project2.cpp(112,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\SNHU\CS210\Module5\Project2\Project2.cpp(129,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Dev\SNHU\CS210\Module5\Project2\x64\Debug\Project2.exe
